@@ -3,7 +3,7 @@ This is a todo list web application made using HTML CSS BootStrap.For backend I 
 ![image](https://github.com/user-attachments/assets/a788e185-af01-4dfa-838b-0f0a0e92f858)
 
 The new feature of the web application is if you write
-https://taskify-uwi4.onrender.com/<your name>
+"https://taskify-uwi4.onrender.com/your name"
 
 it will generate for you a new todolist with that name and you can access it any time
 
