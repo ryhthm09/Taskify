@@ -1,6 +1,6 @@
 # Taskify
 
-Taskify is a to-do list application built using HTML, CSS, Bootstrap, Node.js, Express.js, and MongoDB. The main feature of Taskify is that it allows users to create custom to-do lists. Each user can access their own to-do list via a unique URL pattern, e.g., `todolist.com/<username>`.
+Taskify is a to-do list application built using HTML, CSS, Bootstrap, Node.js, Express.js, and MongoDB. The main feature of Taskify is that it allows users to create custom to-do lists. Each user can access their own to-do list via a unique URL pattern, e.g., `https://taskify-uwi4.onrender.com/<username>`.
 
 ## Live Website
 
@@ -29,7 +29,7 @@ Visit the live version of Taskify here: [Taskify Live Website](https://taskify-u
 
 To get started with Taskify, follow these steps:
 
-1. **Clone the repository:**
+1.**Clone the repository:**
 
    ```bash
    git clone https://github.com/ryhthm09/Taskify.git
